@@ -11,7 +11,7 @@
 
 ## Présentation du test
 <a name="presentation-du-test"></a>
-Réalises l'intégration d'une des maquettes contenues dans le dossier `resources/models`
+Réalises l'intégration du **HEADER** d'une des maquettes contenues dans le dossier `resources/models`
 
 ***
 
@@ -49,13 +49,17 @@ Utilises les commandes Git pour récupérer le projet
 
 ## Consignes
 <a name="consignes"></a>
-Ton code doit être le plus structuré et compréhensible possible.
+- Ton code doit être le plus structuré et compréhensible possible.
 
-Tu es libre d'ajouter des animations selon ta créativité (tu peux t'inspirer des animations contenues dans le dossier `resources/examples`).
 
-Laisses libre cours à ton imagination.
+- Tu es libre d'ajouter des animations selon ta créativité (tu peux t'inspirer des animations contenues dans le dossier `resources/examples`).
 
-<span style="color: red">**ATTENTION :**</span> Tu n'es pas obligé de respecter le thème niveau images et couleurs, mais la structure, les formes, les effets comme les arrondis et les dégradés doivent être conservés.
 
-Choisis une des deux maquettes à intégrer.
-Si tu en as le temps, tu peux réaliser les deux intégrations. Dans ce cas, créé un doss ier par intégration dans le dossier `www`.
+- Laisses libre cours à ton imagination.
+
+
+- **ATTENTION :** Tu n'es pas obligé de respecter le thème niveau images et couleurs, mais la structure, les formes, les effets comme les arrondis et les dégradés doivent être conservés.
+
+
+- Choisis un **HEADER** d'une des maquettes à intégrer.
+  - Si tu en as le temps, tu peux réaliser l'intégration de toute la mquette.
