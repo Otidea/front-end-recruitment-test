@@ -62,4 +62,4 @@ Utilises les commandes Git pour récupérer le projet
 
 
 - Choisis un **HEADER** d'une des maquettes à intégrer.
-  - Si tu en as le temps, tu peux réaliser l'intégration de toute la mquette.
+  - Si tu en as le temps, tu peux réaliser l'intégration de toute la maquette.
